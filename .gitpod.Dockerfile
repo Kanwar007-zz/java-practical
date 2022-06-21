@@ -1,1 +1,1 @@
-gitpod/workspace-java-11
+FROM gitpod/workspace-java-11
